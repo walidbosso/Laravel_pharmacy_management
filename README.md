@@ -47,8 +47,12 @@ The Pharmacy Management App is a comprehensive solution designed to empower phar
 - HTML
 - CSS
 - PHP
-- Laravel (if applicable)
-- SCSS (if applicable)
+- Laravel 
+- SCSS
+- MySQL
+- Bootstrap
+- SQL
+
 
 ## About Laravel
 
